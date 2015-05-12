@@ -1,0 +1,10 @@
+F:\zillur\UniversityManagementApp\UniversityManagementApp\bin\Debug\UniversityManagementApp.exe.config
+F:\zillur\UniversityManagementApp\UniversityManagementApp\obj\Debug\UniversityManagementApp.csprojResolveAssemblyReference.cache
+F:\zillur\UniversityManagementApp\UniversityManagementApp\obj\Debug\UniversityManagementApp.DepartmentEntryUI.resources
+F:\zillur\UniversityManagementApp\UniversityManagementApp\obj\Debug\UniversityManagementApp.Properties.Resources.resources
+F:\zillur\UniversityManagementApp\UniversityManagementApp\obj\Debug\UniversityManagementApp.UI.StudentEntryUI.resources
+F:\zillur\UniversityManagementApp\UniversityManagementApp\obj\Debug\UniversityManagementApp.csproj.GenerateResource.Cache
+F:\zillur\UniversityManagementApp\UniversityManagementApp\bin\Debug\UniversityManagementApp.exe
+F:\zillur\UniversityManagementApp\UniversityManagementApp\bin\Debug\UniversityManagementApp.pdb
+F:\zillur\UniversityManagementApp\UniversityManagementApp\obj\Debug\UniversityManagementApp.exe
+F:\zillur\UniversityManagementApp\UniversityManagementApp\obj\Debug\UniversityManagementApp.pdb
